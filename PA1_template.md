@@ -1,9 +1,5 @@
 # Reproducible Research: Peer Assessment 1
 
-```r
-knitr::opts_chunk$set(fig.path='figure/')
-```
-
 ## Loading and preprocessing the data
 We load the data
 
